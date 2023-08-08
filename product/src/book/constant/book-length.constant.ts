@@ -1,0 +1,5 @@
+export const BOOK_TITLE_LENGTH = 256;
+
+export const BOOK_DESCRIPTION_LENGTH = 4096;
+
+export const BOOK_COVER_URL_LENGTH = 512;

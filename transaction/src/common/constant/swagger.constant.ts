@@ -1,0 +1,1 @@
+export const ISC_SECURITY_NAME = 'ISC_SECURITY';

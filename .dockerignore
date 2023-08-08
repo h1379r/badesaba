@@ -1,0 +1,11 @@
+user/dist/
+user/node_modules/
+Dockerfile-user
+
+product/dist/
+product/node_modules/
+Dockerfile-product
+
+transaction/dist/
+transaction/node_modules/
+Dockerfile-transaction

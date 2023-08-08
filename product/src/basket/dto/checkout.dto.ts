@@ -1,0 +1,9 @@
+import { IsDefined, IsUrl, MaxLength } from 'class-validator';
+import { TRANSACTION_CALLBACK_URL_LENGTH } from 'src/transaction/constant/transaction-length.constant';
+
+export class CheckoutDto {
+  @IsDefined()
+  @IsUrl()
+  @MaxLength(TRANSACTION_CALLBACK_URL_LENGTH)
+  callbackUrl: string;
+}

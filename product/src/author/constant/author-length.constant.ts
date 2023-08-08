@@ -1,0 +1,7 @@
+export const AUTHOR_SLUG_LENGTH = 256;
+
+export const AUTHOR_FIRST_NAME_LENGTH = 128;
+
+export const AUTHOR_LAST_NAME_LENGTH = 128;
+
+export const AUTHOR_DESCRIPTION_LENGTH = 4096;

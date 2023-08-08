@@ -1,0 +1,3 @@
+export const PUBLISHER_SLUG_LENGTH = 256;
+
+export const PUBLISHER_TITLE_LENGTH = 256;
